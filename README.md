@@ -20,8 +20,9 @@ Retextured by abdel499
  "client/minimap.lua"
 ```
 in ```client_scripts {}```
+![image](https://github.com/AbdeLhere/fivem-redminimap/assets/140607607/ce258ee8-dbaa-4328-b5c6-9bab185dc478)
 
-![example](https://github.com/AbdeLhere/fivem-redminimap/assets/140607607/f0510503-a1d6-472a-a30b-67eb4e13b33e)
+
 
 
 - example 2
@@ -39,7 +40,7 @@ client_scripts {
 ```
 
 > 2 drag "minimap.lua" file from "abl-redminimap/lua folder and drop it in "0r-hud"/"client" folder
-- ![example](image.png)
+- ![example](https://github.com/AbdeLhere/fivem-redminimap/assets/140607607/f0510503-a1d6-472a-a30b-67eb4e13b33e)
 
 
 > 3 drag "stream" folder  from "abl-redminimap"/"STREAMASSESTS"/"stream" folder and drop it in "0r-hud" folder

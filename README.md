@@ -44,7 +44,9 @@ client_scripts {
 
 
 > 3 drag "stream" folder  from "abl-redminimap"/"STREAMASSESTS"/"stream" folder and drop it in "0r-hud" folder
-- ![example](image-2.png)
+- ![image](https://github.com/AbdeLhere/fivem-redminimap/assets/140607607/55ad9d09-4afa-467c-b4d5-6a6104389837)
+
+)
 
 > 4 
 

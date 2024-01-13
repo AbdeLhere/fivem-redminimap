@@ -24,7 +24,8 @@ Retextured by abdel499
 ```
 in ```client_scripts {}```
 
-- ![example](image-1.png)
+![example](https://github.com/AbdeLhere/fivem-redminimap/assets/140607607/f0510503-a1d6-472a-a30b-67eb4e13b33e)
+
 
 - example 2
 ```lua

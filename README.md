@@ -9,11 +9,8 @@ https://www.gta5-mods.com/misc/atlas-colored-map-16k-that-also-works-in-radar
 
 Retextured by abdel499
 
-> **Preview**
-
-![1](image-3.png)
-![2](image.png)
-![3](image-1.png)
+> **Preview** / Textures :
+![minimap_sea_0_0](https://github.com/AbdeLhere/fivem-redminimap/assets/140607607/22cdfa52-0843-4ec5-bdc2-eb7146285775)
 - and more
 > # Installation
 
